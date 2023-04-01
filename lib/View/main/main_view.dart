@@ -21,7 +21,7 @@ class MainView extends ConsumerWidget {
         centerTitle: true,
         elevation: 0,
       ),
-      body: Container(child: const Text('ab'),)
+      body: Container(child: const Text('abc'),)
       // bodyPage(context, selectIndex),
       // bottomNavigationBar: BottomNavigationBar(
       //   selectedFontSize: 12,
